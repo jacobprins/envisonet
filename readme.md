@@ -8,6 +8,7 @@ Badir Budair, Emily Boyd, Ian Haines, Jacob Prins, and Mariano Suarez
 
 ### Special Thanks To  
 Cyrus Choi  
+[Sébastien Girard](https://github.com/sebastiengrd)
 
 ### References  
 See [references.txt](references.txt)
