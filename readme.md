@@ -1,7 +1,7 @@
 # Envisonet
 
 ## <ins>**About**</ins> 
-Envisonet is the final GNG1103 project for Group 8. This repo contains all the code used for this project. It should be noted that this repo was uploaded to an AWS EC2 instance to allow for our website to be visable on the domain "[envisonet.com](envisonet.com)". This is the public repo of this project. All files were developed in a private repo previously.  
+Envisonet is the final GNG1103 project for Group 8. This repo contains all the code used for this project. It should be noted that this repo was uploaded to an AWS EC2 instance to allow for our website to be visable on the domain "[envisonet.com](https://envisonet.com)". This is the public repo of this project. All files were developed in a private repo previously.  
 
 ### Envisonet Team  
 Badir Budair, Emily Boyd, [Ian Haines](https://github.com/Hainzie), [Jacob Prins](https://github.com/jacobprins), and Mariano Suarez  
