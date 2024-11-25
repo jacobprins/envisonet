@@ -1,0 +1,11 @@
+[1] “Get started with Bootstrap.” Accessed: Nov. 24, 2024. [Online]. Available: https://getbootstrap.com/docs/5.3/getting-started/introduction/
+[2] H. Coder, “How to set up Nginx and Gunicorn to make the Python Flask app on AWS EC2 accessible web pages.” Accessed: Nov. 24, 2024. [Online]. Available: https://medium.com/@ihenrywu.ca/how-to-set-up-nginx-and-gunicorn-to-make-the-python-flask-app-on-aws-ec2-accessible-web-pages-92fa24a77a88
+[3] “Adding a favicon.” Accessed: Nov. 17, 2024. [Online]. Available: https://flask.palletsprojects.com/en/stable/patterns/favicon/
+[4] V. Maskara, “How to install FFMPEG on EC2 running Amazon Linux?” Accessed: Nov. 14, 2024. [Online]. Available: https://www.maskaravivek.com/post/how-to-install-ffmpeg-on-ec2-running-amazon-linux/
+[5] “Certbot Instructions,” Certbot. Accessed: Nov. 14, 2024. [Online]. Available: https://certbot.eff.org/instructions?ws=nginx&os=pip
+[6] K. Bumsik, opus-media-recorder example. Accessed: Nov. 14, 2024. [Online]. Available: https://jsfiddle.net/kbumsik/v3wpnxao/
+[7] K. Bumsik, opus-media-recorder. Accessed: Nov. 14, 2024. [Online]. Available: https://github.com/kbumsik/opus-media-recorder
+[8] S. Verma, “Error: 413 ‘Request Entity Too Large’ in Nginx with ‘client_max_body_size’ / Changes in Nginx config file.” Accessed: Nov. 14, 2024. [Online]. Available: https://medium.com/@svsh227/error-413-request-entity-too-large-in-nginx-with-client-max-body-size-changes-in-nginx-6aacd525fe11
+[9] “xAI API Reference.” Accessed: Nov. 13, 2024. [Online]. Available: https://docs.x.ai/api/
+[10] A. Herbert, “How To Add Authentication to Your App with Flask-Login,” DigitalOcean. Accessed: Nov. 13, 2024. [Online]. Available: https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login
+[11] ChatGPT, response to debugging queries. OpenAI [Online]. https://chatgpt.com/ (accessed September—December, 2024).

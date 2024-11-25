@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title> Envisonet | Register </title>
+
+{% endblock %}
+
+{% block body %}
+
+<!-- Register HTML page. Includes text fields to create a new username and password -->
+
+<form method="POST" action="/register">
+    <div class="px-0 mx-0 w-100 text-center justify-content-center" style=" height: 100vh; background-color: #1f4d29;">
+        
+        <h1 class="text-center pt-5 text-light"><strong>Register</strong></h1>
+
+        <div class="text-center justify-content-center d-flex">
+            <div class="input-group mb-3 w-75">
+                <input type="text" class="form-control" name="username" placeholder="Username" aria-label="username" aria-describedby="basic-addon1">
+            </div>
+        </div>
+        <div class="text-center justify-content-center d-flex">
+            <div class="input-group mb-3 w-75">
+                <input type="password" class="form-control" name="password" placeholder="Password" aria-label="password" aria-describedby="basic-addon1">
+            </div>
+        </div>
+
+        <div class="text-center">
+            <button class="btn btn-primary w-50" type="submit"><strong>Submit</strong></button>
+        </div>
+
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <div class="text-center p-3 text-light"><strong>{{ messages[0] }}</strong></div>
+        {% endif %}
+        {% endwith %}
+    </div>
+</form>
+
+{% endblock %}
