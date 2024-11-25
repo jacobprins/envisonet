@@ -7,8 +7,7 @@ Envisonet is the final GNG1103 project for Group 8. This repo contains all the c
 Badir Budair, Emily Boyd, Ian Haines, Jacob Prins, and Mariano Suarez  
 
 ### Special Thanks To  
-Cyrus Choi  
-[Sébastien Girard](https://github.com/sebastiengrd)
+Cyrus Choi and [Sébastien Girard](https://github.com/sebastiengrd)
 
 ### References  
 See [references.txt](references.txt)
