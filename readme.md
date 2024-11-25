@@ -25,8 +25,7 @@ t2.micro
 
 ## <ins>**Other Requirements**</ins>  
 ### FFMPEG  
-- ffmpeg is required. For installation on the EC2 above, see *How to install FFMPEG on EC2 running Amazon Linux?* [\[4\]](https://www.maskaravivek.com/post/how-to-install-ffmpeg-on-ec2-running-amazon-linux/). Notably, a symlink for ffprobe must be created as well, so after step 6, run:  
-  `ln -s /usr/local/bin/ffmpeg/ffprobe /usr/bin/ffprobe`  
+- ffmpeg is required. For installation on the EC2 above, see *How to install FFMPEG on EC2 running Amazon Linux?* [\[4\]](https://www.maskaravivek.com/post/how-to-install-ffmpeg-on-ec2-running-amazon-linux/). Notably, a symlink for ffprobe must be created as well, so after step 6, run: `ln -s /usr/local/bin/ffmpeg/ffprobe /usr/bin/ffprobe`  
 
 ### NGINX  
 - If running on an EC2 instance, configure nginx to reverse-proxy localhost:8000, see steps 1-3 of *How to set up Nginx and Gunicorn to make the Python Flask app on AWS EC2 accessible web pages* [\[2\]](https://medium.com/@ihenrywu.ca/how-to-set-up-nginx-and-gunicorn-to-make-the-python-flask-app-on-aws-ec2-accessible-web-pages-92fa24a77a88)
