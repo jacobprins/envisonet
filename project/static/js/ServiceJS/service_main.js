@@ -132,7 +132,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (file) {
             // Stores the uploaded image
             uploadedImage = file;
-            audioButton.innerHTML = 'Photo Submitted';
+            imageButton.innerHTML = 'Photo Submitted';
         }
     });
 
