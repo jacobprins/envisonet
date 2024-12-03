@@ -33,7 +33,7 @@ t2.micro
 
 ## <ins>**Guide to Running the System**</ins> 
 
-1. Create a virtual environment in the "FlaskServerReImagined" *(setup only)*:  
+1. Create a virtual environment in the "envisonet" directory *(setup only)*:  
    `python3 -m venv venv/`
 
 2. Activate the virtual environment:  
